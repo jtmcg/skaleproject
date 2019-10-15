@@ -1,0 +1,25 @@
+.name{
+  font-weight: bold;
+  font-size: 12;
+}
+
+.email{
+  font-size: 12;
+  margin-top: auto;
+}
+
+.preview{
+  border-radius: 50%;
+}
+
+.previewInfo{
+  margin-left: 30px;
+
+}
+
+.rectangle {
+  width: 40%;
+  height: 100%;
+  margin-top: 15%;
+  background: navy;
+}
